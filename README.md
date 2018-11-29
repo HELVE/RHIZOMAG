@@ -1,2 +1,2 @@
-# rhizomag
+# RHIZOMAG
 Rhizomatic Webzine
