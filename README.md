@@ -75,3 +75,5 @@ Insert project creator entities, contributors and their respective presence link
 + ⎔ Documentation
 + ❑ UI design
 + ⚑ Release
+
+
