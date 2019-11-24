@@ -1,5 +1,7 @@
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
+![](helve-project-banner.png)
+
 <a name="intro"></a>
 # RHIZOMAG - RHIZOMATIC WEBZINE
 Description.
